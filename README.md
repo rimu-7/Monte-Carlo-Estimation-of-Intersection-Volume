@@ -200,7 +200,7 @@ def calculate_bounding_box(box_vertices, cyl_c1, cyl_c2, cyl_radius, pyramid_ver
   3. Adjust the bounds by the cylinder's radius.
 
 ### Visualization
-
+!(cylinder&pyramid.png)
 #### Function: `plot_shapes`
 
 ```python
@@ -327,7 +327,7 @@ print(f"Estimated volume of intersection: {volume}")
 2. **Run the Code**: Open a terminal or command prompt and navigate to the directory where you saved the file. Run the code using the following command:
 
    ```bash
-   python ass.py
+   python main.py
    ```
 
 ## Dependencies
