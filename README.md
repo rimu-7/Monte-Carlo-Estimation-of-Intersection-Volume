@@ -200,7 +200,7 @@ def calculate_bounding_box(box_vertices, cyl_c1, cyl_c2, cyl_radius, pyramid_ver
   3. Adjust the bounds by the cylinder's radius.
 
 ### Visualization
-!(cylinder&pyramid.png)
+!(https://raw.githubusercontent.com/rimu-7/Monte-Carlo-Estimation-of-Intersection-Volume/main/cylinder%26pyramid.png)
 #### Function: `plot_shapes`
 
 ```python
