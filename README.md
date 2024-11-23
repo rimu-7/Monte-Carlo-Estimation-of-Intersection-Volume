@@ -324,7 +324,7 @@ print(f"Estimated volume of intersection: {volume}")
 
 ## Running the Code
 
-1. **Save the Code**: Save the complete code in a Python file, for example, `ass.py`.
+1. **Save the Code**: Save the complete code in a Python file, for example, `main.py`.
 2. **Run the Code**: Open a terminal or command prompt and navigate to the directory where you saved the file. Run the code using the following command:
 
    ```bash
